@@ -62,12 +62,11 @@
 
 <h3>IDE & Tools</h3>
 
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/-phpstorm-white?logo=phpstorm&logoColor=000000&style=for-the-badge" alt="phpstorm"/></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Andriod-Studio"/></a>
+<a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
-<a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://img.shields.io/badge/-mysql_workbench-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="postman"/></a>
 <a href="https://filezilla-project.org/filezilla_pro.php" target="_blank"><img src="https://img.shields.io/badge/-filezilla-white?logo=filezilla&logoColor=BF0000&style=for-the-badge" alt="filezilla"/></a>
-<a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
 <a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/-trello-white?logo=trello&logoColor=0052CC&style=for-the-badge" alt="trello"/></a>
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></a>
@@ -75,8 +74,6 @@
 <a href="https://www.figma.com/?fuid=" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
 <a href="https://www.framer.com/" target="_blank"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"/></a>
 <a href="https://www.apple.com/in/macos/monterey/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Framer"/></a>
-
-
 <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/-slack-white?logo=slack&logoColor=4A154B&style=for-the-badge" alt="slack"/></a>
 </div>
 
