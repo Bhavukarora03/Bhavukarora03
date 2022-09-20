@@ -11,10 +11,14 @@
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/Bhavukarora03" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/bhavuk-arora-4a7263216/" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.behance.net/bhavukarora1" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="linkedin"></a>
 <a href="https://www.instagram.com/damuiux/" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:bhavuk.arora03@gmail.com"><img src="https://img.shields.io/badge/-bhavuk.arora03@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
 <a href="https://www.buymeacoffee.com/bhavukarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+<a href="https://cdn.discordapp.com/attachments/986271563999510601/1021765901684580393/image.png" target="_blank"><img src="https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white" height="45" width="170" alt="Phonepe" /></a>
+
+
 </div>
 
 
@@ -70,6 +74,9 @@
 <a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/></a>
 <a href="https://www.figma.com/?fuid=" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
 <a href="https://www.framer.com/" target="_blank"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"/></a>
+<a href="https://www.apple.com/in/macos/monterey/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Framer"/></a>
+
+
 <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/-slack-white?logo=slack&logoColor=4A154B&style=for-the-badge" alt="slack"/></a>
 </div>
 
