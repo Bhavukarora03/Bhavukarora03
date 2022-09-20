@@ -9,9 +9,9 @@
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/Bhavukarora03" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/bhavuk-arora-4a7263216/" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/damuiux/" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://github.com/Bhavukarora03" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/bhavuk-arora-4a7263216/" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/damuiux/" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:bhavuk.arora03@gmail.com"><img src="https://img.shields.io/badge/-bhavuk.arora03@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
 <a href="https://www.buymeacoffee.com/bhavukarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
