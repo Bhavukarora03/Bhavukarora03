@@ -11,9 +11,9 @@
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/Bhavukarora03" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/bhavuk-arora-4a7263216/" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.behance.net/bhavukarora1" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="linkedin"></a>
-<a href="https://www.instagram.com/damuiux/" target="_blank"><img src="https://img.shields.io/badge/-Bhavuk_arora-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="mailto:bhavuk.arora03@gmail.com"><img src="https://img.shields.io/badge/-bhavuk.arora03@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
+<a href="https://www.behance.net/bhavukarora1" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+<a href="https://www.instagram.com/damuiux/" target="_blank"><img src="https://img.shields.io/badge/-Damnuiux-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="mailto:bhavuk.arora03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
 <br/><br/>
 <a href="https://www.buymeacoffee.com/bhavukarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 <a href="https://cdn.discordapp.com/attachments/986271563999510601/1021765901684580393/image.png" target="_blank"><img src="https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white" height="45" width="170" alt="Phonepe" /></a>
