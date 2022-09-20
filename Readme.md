@@ -70,7 +70,6 @@
 <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/-slack-white?logo=slack&logoColor=4A154B&style=for-the-badge" alt="slack"/></a>
 </div>
 
-<small><strong>*</strong> Studying and improving technology skills.</small>
 
 ---
 
@@ -79,7 +78,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
 
 [![](https://github-readme-stats.vercel.app/api?username=bhavukarora03&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=garbinmarcelo&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=bhavukarora03&theme=tokyonight&hide_border=true)](https://github.com/bhavukarora03)
 
 </div>
 </div>
